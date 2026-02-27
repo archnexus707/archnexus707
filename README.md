@@ -4,79 +4,52 @@ archnexus707/archnexus707 is a ✨ special ✨ repository because its `README.md
 
 <div align="center">
   
-# ⚡ _GLITCH:// SYSTEM ACCESS: GRANTED_ ⚡
+<!-- GLOWING ANIMATED TITLE -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=ARCHNEXUS707;RED+TEAM+OPERATOR;NEON+SECURITY" alt="Typing SVG" />
 
-▄▄▄▄▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄▄▄▄▄
-▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░▌ ▐░░░░░░░░░░░▌
-▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀▀▀
-▐░▌ ▐░▌ ▐░▌▐░▌ ▐░▌▐░▌ ▐░▌▐░▌
-▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌▐░▌ ▐░▌▐░▌
-▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌ ▐░▌▐░▌
-▀▀▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░▌ ▐░▌▐░▌
-▐░▌▐░▌ ▐░▌▐░▌ ▐░▌▐░▌ ▐░▌▐░▌
-▄▄▄▄▄▄▄▄▄█░▌▐░▌ ▐░▌▐░▌ ▐░▌▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄
-▐░░░░░░░░░░░▌▐░▌ ▐░▌▐░▌ ▐░▌▐░░░░░░░░░░▌ ▐░░░░░░░░░░░▌
-▀▀▀▀▀▀▀▀▀▀▀ ▀ ▀ ▀ ▀ ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀
+<!-- PULSING GLITCH TEXT -->
+<h1>
+  <a href="https://github.com/archnexus707">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=2000&color=FF00FF&center=true&vCenter=true&lines=%3E_SYSTEM+ACCESS+GRANTED;%3E_WELCOME+TO+THE+GRID;%3E_INITIALIZING...;%3E_ROOT+PRIVILEGES" alt="Glitch Text" />
+  </a>
+</h1>
 
-
-[![Matrix](https://img.shields.io/badge/>>_NEON_SECURITY_-ff00ff?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0d0d0d)](https://github.com/archnexus707)
-[![Cyberpunk](https://img.shields.io/badge/CYBERPUNK-EDITION-00fff9?style=for-the-badge&logo=cyberdefenders&logoColor=white&labelColor=0d0d0d)](https://github.com/archnexus707)
-
----
+<!-- NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 </div>
 
-┌─[⍟]─[ARCHNEXUS707]─[~]
-└──╼ $ whoami
-
-<div align="center">
-
-🥷 OFFENSIVE SECURITY OPERATOR 🥷
-╔════════════════════════════════════════════════════════════════╗
-║  STATUS: ACTIVE            //  CLEARANCE: LEVEL 7             ║
-║  PROTOCOL: RED TEAM        //  ENCRYPTION: AES-256-GCM        ║
-║  NETWORK: DARKFIBER        //  NODE: HIDDEN                   ║
-╚════════════════════════════════════════════════════════════════╝
-
-</div>
-
-
-🔥 SYSTEM SPECS
-╔═══════════════════════════════════════════════════════════════════════╗
-║  ID:                archnexus707                                      ║
-║  ROLE:              Red Team Operator // Security Engineer           ║
-║  SPECIALTY:         Web App Penetration // Exploit Development       ║
-║  MINDSET:           "Always Root, Never Admin"                       ║
-║  REALM:             Web Security // Network Warfare // Threat Intel  ║
-╚═══════════════════════════════════════════════════════════════════════╝
-
-💀 WEAPON ARSENAL
-<p align="center"> <img src="https://img.shields.io/badge/WEAPON-Burp%20Suite-ff6b6b?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0d0d0d" /> <img src="https://img.shields.io/badge/WEAPON-Metasploit-00ff9f?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0d0d0d" /> <img src="https://img.shields.io/badge/WEAPON-Nmap-ffd700?style=for-the-badge&logo=nmap&logoColor=white&labelColor=0d0d0d" /> <img src="https://img.shields.io/badge/WEAPON-Wireshark-0099ff?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0d0d0d" /> <img src="https://img.shields.io/badge/WEAPON-SQLmap-ff00c8?style=for-the-badge&logo=database&logoColor=white&labelColor=0d0d0d" /> <img src="https://img.shields.io/badge/WEAPON-Hydra-00ffff?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d0d0d" /> </p>
-
-⚙️ STACK OVERFLOW
-<p align="center"> <img src="https://img.shields.io/badge/CODE-Python-00ff00?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0d0d" /> <img src="https://img.shields.io/badge/CODE-Bash-00ffaa?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0d0d0d" /> <img src="https://img.shields.io/badge/CODE-PowerShell-00ffff?style=for-the-badge&logo=powershell&logoColor=white&labelColor=0d0d0d" /> <img src="https://img.shields.io/badge/CODE-C%23-ff00ff?style=for-the-badge&logo=csharp&logoColor=white&labelColor=0d0d0d" /> <img src="https://img.shields.io/badge/CODE-JavaScript-ffff00?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d0d0d" /> </p>
-
-🎯 CURRENT DIRECTIVES
-[🟢] ACTIVE: NEONHUNTER - Advanced security scanning framework
-[🟡] COVERT: ShadowBind707 - Red team operational toolkit
-[🔴] PLANNED: [REDACTED] - Classified project
-
-📊 SYSTEM METRICS
-<div align="center">
-https://metrics.lecoq.io/archnexus707?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%2525&config.timezone=America/New_York
-
-</div>
-
-🌐 CONNECT WITH THE GRID
-<p align="center"> <a href="#"><img src="https://img.shields.io/badge/DISCORD-archnexus%23707-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d0d" /></a> <a href="#"><img src="https://img.shields.io/badge/PROTONMAIL-archnexus%40pm.me-6d4aff?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0d0d0d" /></a> <a href="#"><img src="https://img.shields.io/badge/TWITTER-%40archnexus-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0d0d" /></a> <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-archnexus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" /></a> </p>
-
-<div align="center">
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-██ ██ █ █▄░▄█ █▀▀ ▄▀▄ █▄░▄█ █▀▄ ██ ▄▀▄ █▄░█ █▀▄ ██ ███
-██▄█ █▄█ █░▀░█ █▄▄ █▄█ █░▀░█ █▄▀ █▄█ █▄█ █░▀█ █▄▀ █▄█ ██
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-
-// ACCESS GRANTED - WELCOME TO THE GRID //
-
-<img src="https://komarev.com/ghpvc/?username=archnexus707&color=ff00ff&style=flat-square&label=TRACKING+BEACON" /></div> 
-
+<!-- ANIMATED TERMINAL -->
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  ⚡ SYSTEM:// ARCHNEXUS707 v2.0.7                          ║
+║  ⚡ STATUS:// [████████░░] 80% OPERATIONAL                 ║
+║  ⚡ MODE:// [██████████] 100% RED TEAM                      ║
+║  ⚡ CLEARANCE:// ████████ [CLASSIFIED]                      ║
+╚══════════════════════════════════════════════════════════════╝
+<div align="center"><!-- ANIMATED BADGES WITH HOVER EFFECTS --><p align="center"> <a href="#"> <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff00?style=for-the-badge&logo=superuser&logoColor=white&labelColor=000000&color=00ff00" /> </a> <a href="#"> <img src="https://img.shields.io/badge/ROLE-RED%20TEAM-ff00ff?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=000000&color=ff00ff" /> </a> <a href="#"> <img src="https://img.shields.io/badge/LEVEL-1337-00ffff?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=000000&color=00ffff" /> </a> </p><!-- SPINNING LOADER EFFECT --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></div>
+🎮 INTERACTIVE COMMAND CENTER
+yaml
+┌──[root@archnexus:~]
+└──╼ $ ████ LOADING PROFILE ████
+javascript
+{
+  "identity": {
+    "handle": "archnexus707",
+    "real_name": "Dickson Godwin",
+    "role": "Offensive Security Operator",
+    "mentality": "Always Root, Never Admin"
+  },
+  "skills": {
+    "web_app_pentest": "██████████ 100%",
+    "exploit_development": "████████░░ 80%",
+    "network_warfare": "██████████ 100%",
+    "threat_intel": "███████░░░ 70%"
+  },
+  "current_operations": [
+    "🔴 NEONHUNTER - Advanced security scanner",
+    "⚫ ShadowBind707 - Red team toolkit",
+    "🔵 [REDACTED] - Classified"
+  ]
+}
+<div align="center"><!-- ANIMATED SKILL BARS WITH GLOW --><h3>⚡ SYSTEM CAPABILITIES ⚡</h3><p> <img src="https://progress-bar.dev/100/?title=WEB_APP_PENTEST&color=ff00ff&width=400" /> <img src="https://progress-bar.dev/90/?title=EXPLOIT_DEV&color=00ffff&width=400" /> <img src="https://progress-bar.dev/100/?title=NETWORK_WARFARE&color=ff00aa&width=400" /> <img src="https://progress-bar.dev/85/?title=THREAT_INTEL&color=aa00ff&width=400" /> </p><!-- TOOLS WITH GLOW --><h3>💀 WEAPONIZED TOOLS 💀</h3><p align="center"> <img src="https://img.shields.io/badge/BURP%20SUITE-PRO-ff6b6b?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0a0a0a&color=ff0000" /> <img src="https://img.shields.io/badge/METASPLOIT-FRAMEWORK-00ff9f?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0a0a0a&color=00cc88" /> <img src="https://img.shields.io/badge/NMAP-SCANNER-ffd700?style=for-the-badge&logo=nmap&logoColor=white&labelColor=0a0a0a&color=ffaa00" /> <img src="https://img.shields.io/badge/WIRESHARK-ANALYZER-0099ff?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0a0a0a&color=0066cc" /> <img src="https://img.shields.io/badge/SQLMAP-INJECTOR-ff00c8?style=for-the-badge&logo=database&logoColor=white&labelColor=0a0a0a&color=cc00aa" /> <img src="https://img.shields.io/badge/HYDRA-BRUTER-00ffff?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0a0a0a&color=00cccc" /> </p><!-- LANGUAGES --><h3>⚙️ STACK OVERFLOW ⚙️</h3><p align="center"> <img src="https://img.shields.io/badge/PYTHON-EXPERT-00ff00?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0a&color=00cc00" /> <img src="https://img.shields.io/badge/BASH-SCRIPTER-00ffaa?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0a0a0a&color=00aa88" /> <img src="https://img.shields.io/badge/POWERSHELL-HACKER-00ffff?style=for-the-badge&logo=powershell&logoColor=white&labelColor=0a0a0a&color=00aaaa" /> <img src="https://img.shields.io/badge/C%23-DEVELOPER-ff00ff?style=for-the-badge&logo=csharp&logoColor=white&labelColor=0a0a0a&color=aa00aa" /> <img src="https://img.shields.io/badge/JS-SNIPER-ffff00?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0a0a0a&color=cccc00" /> </p><!-- METRICS CARD --><h3>📊 ACTIVE METRICS 📊</h3><img src="https://github-readme-stats.vercel.app/api?username=archnexus707&show_icons=true&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=ff00ff&icon_color=00ffff&text_color=ffffff" width="400" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=archnexus707&theme=midnight-purple&hide_border=true&background=0a0a0a&ring=ff00ff&fire=00ffff&currStreakLabel=ffffff" width="400" /><!-- 3D GITHUB CONTRIBUTIONS --><img src="https://github-profile-trophy.vercel.app/?username=archnexus707&theme=radical&no-frame=true&no-bg=true&row=2&column=3" width="600" /><!-- SOCIAL GRID - WITH YOUR ACTUAL LINKS --><h3>🌐 CONNECT VIA SECURE CHANNEL 🌐</h3><p align="center"> <a href="https://www.linkedin.com/in/dickson-godwin-963114249/"> <img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a&color=0066cc" /> </a> <a href="https://github.com/archnexus707"> <img src="https://img.shields.io/badge/GITHUB-ARCHNEXUS707-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=666666" /> </a> <a href="https://www.hackthebox.com/profile/archnexus707"> <img src="https://img.shields.io/badge/HACKTHEBOX-ARCHNEXUS707-00ff00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0a0a0a&color=00aa00" /> </a> <a href="https://tryhackme.com/p/archnexus707"> <img src="https://img.shields.io/badge/TRYHACKME-ARCHNEXUS707-ff0000?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0a0a0a&color=cc0000" /> </a> </p><!-- ANIMATED MATRIX DIGITS --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/><!-- COUNTER WITH GLOW --><h3> <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=1000&color=00FFFF&center=true&vCenter=true&lines=VISITORS+DETECTED;TRAFFIC+ANALYZED;BEACON+ACTIVE" /> </h3><img src="https://komarev.com/ghpvc/?username=archnexus707&color=ff00ff&style=for-the-badge&label=TRACKING+BEACON" /><!-- GLITCHING FOOTER --><h4> <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=25&duration=3000&color=FF00FF&center=true&vCenter=true&lines=%3E_ACCESS+GRANTED;%3E_WELCOME+TO+THE+GRID;%3E_STAY+NEON" /> </h4></div> ```
