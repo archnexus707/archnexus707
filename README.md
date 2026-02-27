@@ -1,16 +1,23 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Specialist-00ffd5?style=flat-square&logo=protonmail" />
+  <img src="https://img.shields.io/badge/Web%20App%20Pentest-OWASP%20Mode-ff2bd6?style=flat-square&logo=owasp" />
+  <img src="https://img.shields.io/badge/Red%20Team-%26%20Threat%20Intel-7c4dff?style=flat-square&logo=linux" />
+  <img src="https://img.shields.io/badge/Dev-Python%20%7C%20Bash%20%7C%20PowerShell-9cf?style=flat-square&logo=python" />
+</p>
 
-<!--
-**archnexus707/archnexus707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Toolchain-Burp%20%7C%20Nmap%20%7C%20Metasploit%20%7C%20Wireshark-0b0f14?style=flat-square&logo=kalilinux" />
+  <img src="https://img.shields.io/badge/Status-Always%20Root%20Never%20Admin-000000?style=flat-square&logo=hackthebox" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 whoami
+```bash
+archnexus707 // Cybersecurity Specialist
+web app pentest • vuln assessment • red team • threat intel
+
+focus: SQLi | XSS | CSRF | automation scripts
+stack: Linux/Kali • Python/Bash/PowerShell • Burp/Nmap/Metasploit
+
+eish... welcome to the neon grid.
