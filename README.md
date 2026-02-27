@@ -10,14 +10,4 @@
   <img src="https://img.shields.io/badge/Status-Always%20Root%20Never%20Admin-000000?style=flat-square&logo=hackthebox" />
 </p>
 
----
-
 ## 🧠 whoami
-```bash
-archnexus707 // Cybersecurity Specialist
-web app pentest • vuln assessment • red team • threat intel
-
-focus: SQLi | XSS | CSRF | automation scripts
-stack: Linux/Kali • Python/Bash/PowerShell • Burp/Nmap/Metasploit
-
-eish... welcome to the neon grid.
