@@ -1,25 +1,27 @@
-<!---
-archnexus707/archnexus707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
-
 <div align="center">
-  
-<!-- GLOWING ANIMATED TITLE -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=ARCHNEXUS707;RED+TEAM+OPERATOR;NEON+SECURITY" alt="Typing SVG" />
 
-<!-- PULSING GLITCH TEXT -->
-<h1>
-  <a href="https://github.com/archnexus707">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=2000&color=FF00FF&center=true&vCenter=true&lines=%3E_SYSTEM+ACCESS+GRANTED;%3E_WELCOME+TO+THE+GRID;%3E_INITIALIZING...;%3E_ROOT+PRIVILEGES" alt="Glitch Text" />
-  </a>
-</h1>
+### `DGM-707`  ·  `archnexus707`
 
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1000&color=FF2B4A&center=true&vCenter=true&width=620&lines=%3E+PURPLE+TEAM+OPERATOR+%40+SIMBA+CYBER;%3E+RED+TEAM+%2F%2F+ADVERSARY+EMULATION;%3E+DAR+ES+SALAAM+%2F%2F+TZ" alt="status" />
 
 </div>
 
+---
 
-<div align="center"><!-- ANIMATED BADGES WITH HOVER EFFECTS --><p align="center"> <a href="#"> <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff00?style=for-the-badge&logo=superuser&logoColor=white&labelColor=000000&color=00ff00" /> </a> <a href="#"> <img src="https://img.shields.io/badge/ROLE-RED%20TEAM-ff00ff?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=000000&color=ff00ff" /> </a> <a href="#"> <img src="https://img.shields.io/badge/LEVEL-1337-00ffff?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=000000&color=00ffff" /> </a> </p><!-- SPINNING LOADER EFFECT --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></div>
+```sh
+focus    red / purple team · adversary emulation · web & AD exploitation
+stack    python · bash · powershell · c# · go
+tools    burp · metasploit · bloodhound · impacket · nuclei · sigma · yara
+motto    break it → write the report that keeps it broken
+```
 
-<div align="center"><!-- ANIMATED SKILL BARS WITH GLOW --><h3>⚡ SYSTEM CAPABILITIES ⚡</h3><p> <img src="https://progress-bar.dev/100/?title=WEB_APP_PENTEST&color=ff00ff&width=400" /> <img src="https://progress-bar.dev/90/?title=EXPLOIT_DEV&color=00ffff&width=400" /> <img src="https://progress-bar.dev/100/?title=NETWORK_WARFARE&color=ff00aa&width=400" /> <img src="https://progress-bar.dev/85/?title=THREAT_INTEL&color=aa00ff&width=400" /></p><!-- TOOLS WITH GLOW --><h3>💀 WEAPONIZED TOOLS 💀</h3><p align="center"> <img src="https://img.shields.io/badge/BURP%20SUITE-PRO-ff6b6b?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0a0a0a&color=ff0000" /> <img src="https://img.shields.io/badge/METASPLOIT-FRAMEWORK-00ff9f?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0a0a0a&color=00cc88" /> <img src="https://img.shields.io/badge/NMAP-SCANNER-ffd700?style=for-the-badge&logo=nmap&logoColor=white&labelColor=0a0a0a&color=ffaa00" /> <img src="https://img.shields.io/badge/WIRESHARK-ANALYZER-0099ff?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0a0a0a&color=0066cc" /> <img src="https://img.shields.io/badge/SQLMAP-INJECTOR-ff00c8?style=for-the-badge&logo=database&logoColor=white&labelColor=0a0a0a&color=cc00aa" /> <img src="https://img.shields.io/badge/HYDRA-BRUTER-00ffff?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0a0a0a&color=00cccc" /> </p><!-- LANGUAGES --><h3>⚙️ STACK OVERFLOW ⚙️</h3><p align="center"> <img src="https://img.shields.io/badge/PYTHON-EXPERT-00ff00?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0a&color=00cc00" /> <img src="https://img.shields.io/badge/BASH-SCRIPTER-00ffaa?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0a0a0a&color=00aa88" /> <img src="https://img.shields.io/badge/POWERSHELL-HACKER-00ffff?style=for-the-badge&logo=powershell&logoColor=white&labelColor=0a0a0a&color=00aaaa" /> <img src="https://img.shields.io/badge/C%23-DEVELOPER-ff00ff?style=for-the-badge&logo=csharp&logoColor=white&labelColor=0a0a0a&color=aa00aa" /> <img src="https://img.shields.io/badge/JS-SNIPER-ffff00?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0a0a0a&color=cccc00" /> </p><!-- METRICS CARD --><h3>📊 ACTIVE METRICS 📊</h3><img src="https://github-readme-stats.vercel.app/api?username=archnexus707&show_icons=true&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=ff00ff&icon_color=00ffff&text_color=ffffff" width="400" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=archnexus707&theme=midnight-purple&hide_border=true&background=0a0a0a&ring=ff00ff&fire=00ffff&currStreakLabel=ffffff" width="400" /><!-- 3D GITHUB CONTRIBUTIONS --><img src="https://github-profile-trophy.vercel.app/?username=archnexus707&theme=radical&no-frame=true&no-bg=true&row=2&column=3" width="600" /><!-- SOCIAL GRID - WITH YOUR ACTUAL LINKS --><h3>🌐 CONNECT VIA SECURE CHANNEL 🌐</h3><p align="center"> <a href="https://www.linkedin.com/in/dickson-godwin-963114249/"> <img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a&color=0066cc" /> </a> <a href="https://github.com/archnexus707"> <img src="https://img.shields.io/badge/GITHUB-ARCHNEXUS707-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=666666" /> </a> <a href="https://www.hackthebox.com/profile/archnexus707"> <img src="https://img.shields.io/badge/HACKTHEBOX-ARCHNEXUS707-00ff00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0a0a0a&color=00aa00" /> </a> <a href="https://tryhackme.com/p/archnexus707"> <img src="https://img.shields.io/badge/TRYHACKME-ARCHNEXUS707-ff0000?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0a0a0a&color=cc0000" /> </a> </p><!-- ANIMATED MATRIX DIGITS --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/><!-- COUNTER WITH GLOW --><h3> <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=1000&color=00FFFF&center=true&vCenter=true&lines=VISITORS+DETECTED;TRAFFIC+ANALYZED;BEACON+ACTIVE" /> </h3><img src="https://komarev.com/ghpvc/?username=archnexus707&color=ff00ff&style=for-the-badge&label=TRACKING+BEACON" /><!-- GLITCHING FOOTER --><h4> <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=25&duration=3000&color=FF00FF&center=true&vCenter=true&lines=%3E_ACCESS+GRANTED;%3E_WELCOME+TO+THE+GRID;%3E_STAY+NEON" /> </h4></div>
+### → **[archnexus707.github.io](https://archnexus707.github.io/)** — full portfolio, ops log, certs & repos
+
+<p>
+  <a href="https://www.linkedin.com/in/dickson-godwin-963114249/"><img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=flat-square&logo=linkedin&logoColor=00E5FF&labelColor=0A0B0D" /></a>
+  <a href="https://www.hackthebox.com/profile/archnexus707"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=9FEF00&labelColor=0A0B0D" /></a>
+  <a href="https://tryhackme.com/p/archnexus707"><img src="https://img.shields.io/badge/TryHackMe-FF2B4A?style=flat-square&logo=tryhackme&logoColor=FF2B4A&labelColor=0A0B0D" /></a>
+  <a href="mailto:dicksonmassawe707@gmail.com"><img src="https://img.shields.io/badge/Email-C9D1D9?style=flat-square&logo=protonmail&logoColor=C9D1D9&labelColor=0A0B0D" /></a>
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=archnexus707&show_icons=true&hide_border=true&title_color=FF2B4A&icon_color=00E5FF&text_color=C9D1D9&bg_color=0A0B0D" height="150" />
