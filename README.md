@@ -2,7 +2,7 @@
 
 ### `DGM-707`  ·  `archnexus707`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1000&color=FF2B4A&center=true&vCenter=true&width=620&lines=%3E+PURPLE+TEAM+OPERATOR+%40+SIMBA+CYBER;%3E+RED+TEAM+%2F%2F+ADVERSARY+EMULATION;%3E+DAR+ES+SALAAM+%2F%2F+TZ" alt="status" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1000&color=FF2B4A&center=true&vCenter=true&width=620&lines=%3E+PURPLE+TEAM+OPERATOR+%40+OWNTECHSICT+COMPANY+LIMITED;%3E+RED+TEAM+%2F%2F+ADVERSARY+EMULATION;%3E+DAR+ES+SALAAM+%2F%2F+TZ" alt="status" />
 
 </div>
 
