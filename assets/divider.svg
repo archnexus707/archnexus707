@@ -2,17 +2,26 @@
   <defs>
     <linearGradient id="dg" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#07060b"/>
-      <stop offset="25%" stop-color="#2563eb"/>
-      <stop offset="50%" stop-color="#00e5ff"/>
-      <stop offset="75%" stop-color="#a855f7"/>
+      <stop offset="22%" stop-color="#00e5ff"/>
+      <stop offset="50%" stop-color="#a855f7"/>
+      <stop offset="78%" stop-color="#ff2e4c"/>
       <stop offset="100%" stop-color="#07060b"/>
-      <animate attributeName="x1" values="-100%;100%" dur="4s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="100%;300%" dur="4s" repeatCount="indefinite"/>
     </linearGradient>
   </defs>
   <rect x="0" y="10" width="1200" height="3" rx="1.5" fill="url(#dg)"/>
+  <!-- Gojo orb sweeps right -->
   <circle cy="11.5" r="4" fill="#00e5ff">
-    <animate attributeName="cx" values="0;1200" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="0;600" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+  <!-- Sukuna orb sweeps left -->
+  <circle cy="11.5" r="4" fill="#ff2e4c">
+    <animate attributeName="cx" values="1200;600" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+  <!-- clash flash at center -->
+  <circle cx="600" cy="11.5" r="0" fill="#a855f7">
+    <animate attributeName="r" values="0;7;0" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.9;0" dur="2.6s" repeatCount="indefinite"/>
   </circle>
 </svg>

@@ -3,7 +3,7 @@
 <img src="./assets/banner.svg" width="100%" alt="archnexus707 // domain expansion" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=44&lines=%3E+PURPLE+TEAM+OPERATOR+%40+OWNTECHSICT+COMPANY+LIMITED;%3E+RED+TEAM+%2F%2F+ADVERSARY+EMULATION;%3E+WEB+%26+ACTIVE+DIRECTORY+EXPLOITATION;%3E+DAR+ES+SALAAM+%2F%2F+TANZANIA" alt="status" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=A855F7&center=true&vCenter=true&width=760&height=44&lines=%3E+PURPLE+TEAM+OPERATOR+%40+OWNTECHSICT+COMPANY+LIMITED;%3E+RED+TEAM+%2F%2F+ADVERSARY+EMULATION;%3E+WEB+%26+ACTIVE+DIRECTORY+EXPLOITATION;%3E+DAR+ES+SALAAM+%2F%2F+TANZANIA" alt="status" />
 </a>
 
 </div>
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-<img height="165" src="https://streak-stats.demolab.com?user=archnexus707&hide_border=true&background=07060B&ring=00E5FF&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=C9D1D9&dates=6D5AA8&sideNums=C9D1D9&currStreakNum=00E5FF" />
+<img height="165" src="https://streak-stats.demolab.com?user=archnexus707&hide_border=true&background=07060B&ring=00E5FF&fire=FF2E4C&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=6D5AA8&sideNums=C9D1D9&currStreakNum=FF2E4C" />
 
 </div>
 
@@ -86,5 +86,5 @@
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=archnexus707&style=flat-square&color=00E5FF&label=CURSED+ENERGY+FLOW" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=archnexus707&style=flat-square&color=A855F7&label=CURSED+ENERGY+FLOW" alt="views" />
 </div>

@@ -1,21 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" font-family="'Segoe UI', 'Yu Gothic', monospace">
   <defs>
-    <radialGradient id="glow" cx="50%" cy="55%" r="60%">
+    <radialGradient id="glowL" cx="50%" cy="55%" r="60%">
       <stop offset="0%" stop-color="#1e90ff" stop-opacity="0.55"/>
-      <stop offset="45%" stop-color="#0a2a5e" stop-opacity="0.30"/>
+      <stop offset="45%" stop-color="#0a2a5e" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#07060b" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowR" cx="50%" cy="55%" r="60%">
+      <stop offset="0%" stop-color="#e01e37" stop-opacity="0.55"/>
+      <stop offset="45%" stop-color="#7a0b1e" stop-opacity="0.28"/>
       <stop offset="100%" stop-color="#07060b" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#00e5ff"/>
       <stop offset="50%" stop-color="#a855f7"/>
-      <stop offset="100%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#ff2e4c"/>
       <animate attributeName="x1" values="0%;100%;0%" dur="6s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="100%;200%;100%" dur="6s" repeatCount="indefinite"/>
     </linearGradient>
     <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#00e5ff" stop-opacity="0.16"/>
-      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#a855f7" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
     </linearGradient>
     <filter id="blur6"><feGaussianBlur stdDeviation="6"/></filter>
     <style>
@@ -51,58 +56,73 @@
 
   <!-- background -->
   <rect width="1200" height="340" fill="#07060b"/>
-  <g stroke="#0d1a2a" stroke-width="1">
-    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200M0 300H1200"/>
-    <path d="M100 0V340M240 0V340M380 0V340M520 0V340M660 0V340M800 0V340M940 0V340M1080 0V340"/>
+  <g stroke-width="1">
+    <g stroke="#0d1a2a">
+      <path d="M0 60H600M0 120H600M0 180H600M0 240H600M0 300H600"/>
+      <path d="M100 0V340M240 0V340M380 0V340M520 0V340"/>
+    </g>
+    <g stroke="#2a0d14">
+      <path d="M600 60H1200M600 120H1200M600 180H1200M600 240H1200M600 300H1200"/>
+      <path d="M680 0V340M820 0V340M960 0V340M1100 0V340"/>
+    </g>
   </g>
-  <rect width="1200" height="340" fill="url(#glow)">
+  <!-- dual glow: Gojo left / Sukuna right -->
+  <rect x="0" y="0" width="620" height="340" fill="url(#glowL)">
     <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="580" y="0" width="620" height="340" fill="url(#glowR)">
+    <animate attributeName="opacity" values="1;0.7;1" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <!-- clash seam -->
+  <rect x="598" y="0" width="4" height="340" fill="#a855f7" opacity="0.5" filter="url(#blur6)">
+    <animate attributeName="opacity" values="0.25;0.75;0.25" dur="2.2s" repeatCount="indefinite"/>
   </rect>
 
   <!-- cursed energy particles -->
-  <g fill="#00e5ff">
-    <circle cx="180" cy="290" r="2.5" opacity="0.8">
+  <g>
+    <circle cx="150" cy="290" r="2.5" fill="#00e5ff" opacity="0.8">
       <animate attributeName="cy" values="290;40" dur="7s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0;.9;0" dur="7s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="1020" cy="310" r="2" fill="#a855f7">
-      <animate attributeName="cy" values="310;30" dur="9s" begin="1.5s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;.8;0" dur="9s" begin="1.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="870" cy="300" r="1.8" fill="#a855f7">
-      <animate attributeName="cy" values="300;60" dur="6s" begin="3s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;.9;0" dur="6s" begin="3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="330" cy="320" r="2.2" opacity="0.7">
+    <circle cx="330" cy="320" r="2.2" fill="#a855f7" opacity="0.7">
       <animate attributeName="cy" values="320;50" dur="8s" begin="2s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0;.7;0" dur="8s" begin="2s" repeatCount="indefinite"/>
     </circle>
+    <circle cx="1050" cy="310" r="2" fill="#ff2e4c">
+      <animate attributeName="cy" values="310;30" dur="9s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;.8;0" dur="9s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="880" cy="300" r="1.8" fill="#ffb627">
+      <animate attributeName="cy" values="300;60" dur="6s" begin="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;.9;0" dur="6s" begin="3s" repeatCount="indefinite"/>
+    </circle>
   </g>
 
-  <!-- kanji: Unlimited Void / Six Eyes -->
-  <text x="70" y="105" font-size="64" fill="#2563eb" class="kanji" font-weight="700" opacity="0.65">無量空処</text>
-  <text x="1130" y="315" font-size="30" fill="#1c3a63" text-anchor="end" class="kanji" font-weight="700">六眼 // SIX EYES</text>
+  <!-- kanji: Gojo (left) vs Sukuna (right) -->
+  <text x="60" y="105" font-size="58" fill="#2563eb" class="kanji" font-weight="700" opacity="0.65">無量空処</text>
+  <text x="1140" y="105" font-size="58" fill="#c81030" text-anchor="end" class="kanji" font-weight="700" opacity="0.65">伏魔御廚子</text>
+  <text x="600" y="316" font-size="24" fill="#6b4a9e" text-anchor="middle" class="kanji" font-weight="700">呪力 // CURSED ENERGY</text>
 
   <!-- glitch title -->
   <g font-size="88" font-weight="800" letter-spacing="4" text-anchor="middle" font-family="'Consolas','Courier New',monospace">
     <text x="600" y="205" fill="#00e5ff" class="glitch-r" opacity="0">ARCHNEXUS707</text>
-    <text x="600" y="205" fill="#a855f7" class="glitch-c" opacity="0">ARCHNEXUS707</text>
-    <text x="600" y="205" fill="url(#neon)" filter="url(#blur6)" opacity="0.55">ARCHNEXUS707</text>
+    <text x="600" y="205" fill="#ff2e4c" class="glitch-c" opacity="0">ARCHNEXUS707</text>
+    <text x="600" y="205" fill="url(#neon)" filter="url(#blur6)" opacity="0.6">ARCHNEXUS707</text>
     <text x="600" y="205" fill="url(#neon)" class="flicker">ARCHNEXUS707</text>
   </g>
 
   <!-- subtitle -->
   <g font-family="'Consolas','Courier New',monospace" text-anchor="middle">
-    <text x="600" y="252" font-size="21" fill="#dceeff" letter-spacing="6">PURPLE TEAM OPERATOR // ADVERSARY EMULATION</text>
-    <text x="600" y="288" font-size="16" fill="#4a7bb5" letter-spacing="3">&gt; domain_expansion --unlimited-exploits<tspan class="cursor" fill="#00e5ff">▊</tspan></text>
+    <text x="600" y="252" font-size="21" fill="#e6def2" letter-spacing="6">PURPLE TEAM OPERATOR // ADVERSARY EMULATION</text>
+    <text x="600" y="288" font-size="16" fill="#8a6ab0" letter-spacing="3">&gt; domain_expansion --unlimited-exploits<tspan class="cursor" fill="#a855f7">▊</tspan></text>
   </g>
 
-  <!-- HUD frame -->
+  <!-- HUD frame: cyan left, red right -->
   <g fill="none" stroke-width="2">
-    <path d="M30 55V30H120" stroke="#a855f7" class="dash"/>
-    <path d="M1170 55V30H1080" stroke="#00e5ff" class="dash"/>
+    <path d="M30 55V30H120" stroke="#00e5ff" class="dash"/>
     <path d="M30 285V310H120" stroke="#00e5ff" class="dash"/>
-    <path d="M1170 285V310H1080" stroke="#a855f7" class="dash"/>
+    <path d="M1170 55V30H1080" stroke="#ff2e4c" class="dash"/>
+    <path d="M1170 285V310H1080" stroke="#ff2e4c" class="dash"/>
   </g>
 
   <!-- moving scanline -->
