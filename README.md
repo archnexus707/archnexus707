@@ -24,10 +24,10 @@
 
 ### → **[archnexus707.github.io](https://archnexus707.github.io/)** — full portfolio · ops log · certs & repos
 
-<a href="https://www.linkedin.com/in/dickson-godwin-963114249/"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=3B82F6&labelColor=07060B" /></a>
-<a href="https://app.hackthebox.com/users/2109500"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=07060B" /></a>
-<a href="https://tryhackme.com/p/hackerreal935"><img src="https://img.shields.io/badge/TryHackMe-00E5FF?style=for-the-badge&logo=tryhackme&logoColor=00E5FF&labelColor=07060B" /></a>
-<a href="mailto:dicksonmassawe707@gmail.com"><img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=protonmail&logoColor=00E5FF&labelColor=07060B" /></a>
+<a href="https://www.linkedin.com/in/dickson-godwin-963114249/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
+<a href="https://app.hackthebox.com/users/2109500"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=000" /></a>
+<a href="https://tryhackme.com/p/hackerreal935"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=fff" /></a>
+<a href="mailto:dicksonmassawe707@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
 
 </div>
 
@@ -48,20 +48,20 @@
 
 ## `// RED TEAM // PENTEST ARSENAL`
 
-<img src="https://img.shields.io/badge/Burp_Suite-00E5FF?style=flat-square&logo=burpsuite&logoColor=fff&labelColor=07060B" />
-<img src="https://img.shields.io/badge/Metasploit-00E5FF?style=flat-square&logo=metasploit&logoColor=fff&labelColor=07060B" />
-<img src="https://img.shields.io/badge/BloodHound-3B82F6?style=flat-square&labelColor=07060B" />
-<img src="https://img.shields.io/badge/Impacket-00E5FF?style=flat-square&labelColor=07060B" />
-<img src="https://img.shields.io/badge/Cobalt_Strike-00E5FF?style=flat-square&labelColor=07060B" />
-<img src="https://img.shields.io/badge/Nmap-3B82F6?style=flat-square&logo=nmap&logoColor=fff&labelColor=07060B" />
-<img src="https://img.shields.io/badge/Nuclei-3B82F6?style=flat-square&labelColor=07060B" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=fff" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=fff" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=fff" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=fff" />
+<img src="https://img.shields.io/badge/Ghidra-FF7A00?style=for-the-badge&logo=&logoColor=fff" />
 <br/>
-<img src="https://img.shields.io/badge/Wireshark-00E5FF?style=flat-square&logo=wireshark&logoColor=fff&labelColor=07060B" />
-<img src="https://img.shields.io/badge/Ghidra-00E5FF?style=flat-square&labelColor=07060B" />
-<img src="https://img.shields.io/badge/Sigma-00E5FF?style=flat-square&labelColor=07060B" />
-<img src="https://img.shields.io/badge/YARA-00E5FF?style=flat-square&labelColor=07060B" />
-<img src="https://img.shields.io/badge/Sliver-3B82F6?style=flat-square&labelColor=07060B" />
-<img src="https://img.shields.io/badge/Kali_Linux-3B82F6?style=flat-square&logo=kalilinux&logoColor=07060B&labelColor=07060B" />
+<img src="https://img.shields.io/badge/BloodHound-1E1E1E?style=for-the-badge&logo=&logoColor=fff" />
+<img src="https://img.shields.io/badge/Impacket-2B5797?style=for-the-badge&logo=&logoColor=fff" />
+<img src="https://img.shields.io/badge/Cobalt_Strike-C8102E?style=for-the-badge&logo=&logoColor=fff" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=&logoColor=fff" />
+<img src="https://img.shields.io/badge/Nuclei-1FB6FF?style=for-the-badge&logo=&logoColor=fff" />
+<img src="https://img.shields.io/badge/Sigma-3B82F6?style=for-the-badge&logo=&logoColor=fff" />
+<img src="https://img.shields.io/badge/YARA-00BFA6?style=for-the-badge&logo=&logoColor=fff" />
+<img src="https://img.shields.io/badge/Sliver-6E44FF?style=for-the-badge&logo=&logoColor=fff" />
 
 </div>
 
